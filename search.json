@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_test_2",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_test_2",
+    "section": "Install",
+    "text": "Install\npip install nbdev_test_2"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_test_2",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nadd(1,2)\n\n3\n\n\n\nname.say_my_name(\"xceedance\")\n\n'xceedance'\n\n\n\nname.first_letter(\"xceedance\")\n\n'x'"
+  },
+  {
+    "objectID": "temp.html",
+    "href": "temp.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nadd\n\n add (a, b)\n\n\nsource\n\n\nname\n\n name ()\n\nInitialize self. See help(type(self)) for accurate signature."
+  }
+]
