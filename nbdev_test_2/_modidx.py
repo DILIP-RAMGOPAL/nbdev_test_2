@@ -6,4 +6,7 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/DILIP-RAMGOPAL/nbdev_test_2',
                 'lib_path': 'nbdev_test_2'},
   'syms': { 'nbdev_test_2.core': {'nbdev_test_2.core.foo': ('core.html#foo', 'nbdev_test_2/core.py')},
-            'nbdev_test_2.test_2': {'nbdev_test_2.test_2.add': ('temp.html#add', 'nbdev_test_2/test_2.py')}}}
+            'nbdev_test_2.test_2': { 'nbdev_test_2.test_2.add': ('temp.html#add', 'nbdev_test_2/test_2.py'),
+                                     'nbdev_test_2.test_2.name': ('temp.html#name', 'nbdev_test_2/test_2.py'),
+                                     'nbdev_test_2.test_2.name.first_letter': ('temp.html#name.first_letter', 'nbdev_test_2/test_2.py'),
+                                     'nbdev_test_2.test_2.name.say_my_name': ('temp.html#name.say_my_name', 'nbdev_test_2/test_2.py')}}}
