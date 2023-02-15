@@ -17,7 +17,13 @@ pip install nbdev_test_2
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+add(1,2)
 ```
 
-    2
+    3
+
+``` python
+name.say_my_name("xceedance")
+```
+
+    NameError: name 'name' is not defined
